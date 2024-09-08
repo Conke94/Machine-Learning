@@ -1,0 +1,1 @@
+This project involved testing some machine learning algorithms with the object to find the damage gravity from a person. This project was made using ID3 algorithm, Forest Random and Neural Networks and the full documentation can be seen in the PDF on this folder.
